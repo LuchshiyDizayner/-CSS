@@ -1,0 +1,19 @@
+
+    #content{
+        border:2px solid #FF0000;
+        width:300px;
+    }
+     
+    .firstPar{
+        border:2px solid #0000FF;
+        margin:20px;
+        padding:20px;
+        width:200px;
+        height:280px;
+    }
+     
+    .secondPar{
+        border:2px solid #00FF00;
+        padding:20px;
+        margin:20px;
+    }
