@@ -1,0 +1,32 @@
+#wrapper{
+    width:550px;
+    height:100%;
+    margin:0 auto;
+    outline:1px solid #cccccc;
+}
+ 
+#header{
+    width:550px;
+    height:100px;
+    background-color:#C40000; 
+}
+ 
+#sidebar{
+    width:150px;
+    height:100px;
+    background-color:#2000C4; 
+    float:left; 
+}
+ 
+#content{
+    width:395px;
+    height:100px;
+    background-color:#01A006;
+    margin-left:155px; 
+}
+ 
+#footer{
+    width:550px;
+    height:100px;
+    background-color:#ED9600; 
+}
