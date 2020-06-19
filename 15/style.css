@@ -1,0 +1,20 @@
+input{
+    background-color:#D3D5FF; /* голубой фон */
+    color:#0007D3; /* синий цвет букв */
+    border:2px solid #7A7DD6; /* синяя рамка в два пикселя */
+    padding:5px; /* внутренний отступ для текста в 5 пикселей */
+}
+ 
+.niceText{
+    background-image:url('img/pepe.jpg'); /* изображение для заднего фона */
+    background-repeat:no-repeat; /* запрещаем повтор фонового изображения */
+    background-position:100% 100%; /* смещаем его в правый нижний угол */
+    border:2px solid #7A7DD6; /* синяя рамка в два пикселя */
+    background-size: 100px 100px;
+}
+
+.sendA{
+    margin:20px 0 0 20px; /* отступ снизу и слева для кнопки */
+    height: 100px;
+    width: 100px;
+}
