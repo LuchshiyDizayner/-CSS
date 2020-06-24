@@ -1,0 +1,18 @@
+.layer1 {
+    position: relative;
+    background: #f0f0f0; 
+    height: 400px; 
+    width: 800px;
+    margin-left: 200px;
+    margin-top: 150px;
+   }
+   .layer2 {
+    position: absolute; 
+    bottom: 15px;
+    right: 15px; 
+    line-height: 1px;
+    
+   }
+   img {
+    width: 300px;
+}
